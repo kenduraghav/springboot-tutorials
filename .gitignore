@@ -39,3 +39,6 @@ out/
 .vscode/
 
 *.zip
+gs-messaging-redis/
+spring-data-jpa-boot/
+spring-data-jpa/
